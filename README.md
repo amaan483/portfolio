@@ -10,7 +10,7 @@ A collection of console-based C projects I've built for practice and learning. E
 
 ### 2. Number Guessing Game
 - Random number + attempt counter
-- [🔗 View Code](https://github.com/amaan483/number-guessing-game-c)
+- [🔗 View Code](https://github.com/amaan483/number-guessing--game-c)
 
 ## Management Systems
 
