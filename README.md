@@ -10,32 +10,32 @@ A collection of console-based C projects I've built for practice and learning. E
 
 ### 2. Number Guessing Game
 - Random number + attempt counter
-- [🔗 View Code](https://github.com/amaan483/number-game)
+- [🔗 View Code](https://github.com/amaan483/number-game-c)
 
 ## Management Systems
 
 ### 3. User Management
 - Masked password login system
-- [🔗 View Code](https://github.com/amaan483/user-management)
+- [🔗 View Code](https://github.com/amaan483/user-management-system-c)
 
 ### 4. Bank Management System
 - File-based data storage (account, deposit, withdraw)
-- [🔗 View Code](https://github.com/amaan483/bank-management)
+- [🔗 View Code](https://github.com/amaan483/bank-management-system-c)
 
 ---
 ## Tools
 
 ### 5. Calculator
 - Menu-driven calculator for basic operations
-- [🔗 View Code](https://github.com/amaan483/calculator)
+- [🔗 View Code](https://github.com/amaan483/calculator-c)
 
 ### 6. Clock
 - Real-time display based on system time
-- [🔗 View Code](https://github.com/amaan483/clock)
+- [🔗 View Code](https://github.com/amaan483/digital-clock-c)
 
 ### 7. Progress Bar
 - Shows live progress bar and "Task Completed"
-- [🔗 View Code](https://github.com/amaan483/progress-bar)
+- [🔗 View Code](https://github.com/amaan483/progress-bar-c)
 
 ---
 
@@ -43,7 +43,7 @@ A collection of console-based C projects I've built for practice and learning. E
 
 ### 8. Sudoku Solver
 - Solves a predefined puzzle using backtracking
-- [🔗 View Code](https://github.com/amaan483/sudoku)
+- [🔗 View Code](https://github.com/amaan483/sudoku-c)
 
 ---
 
