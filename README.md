@@ -6,7 +6,7 @@ A collection of console-based C projects I've built for practice and learning. E
 ### 1. Tic Tac Toe
 - Two modes: Easy (random) and Difficult (logic)
 - Loop until user exits
-- [🔗 View Code](https://github.com/amaan483/tictactoe)
+- [🔗 View Code](https://github.com/amaan483/tictactoe-c)
 
 ### 2. Number Guessing Game
 - Random number + attempt counter
